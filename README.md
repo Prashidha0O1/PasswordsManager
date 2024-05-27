@@ -21,25 +21,13 @@ Passwords is an open-source desktop application designed to streamline password 
 
 ## Features
 
-- Access your encrypted password file through the user authentication page. Safeguard your passwords with an additional layer of security using user credentials.
+1. **Secure and Organized Password Management:** Access and manage your encrypted passwords through a secure user authentication page. Add, edit, delete, and organize passwords into different categories for easy access.
 
-- Seamlessly add, edit, and delete passwords within the app.
+2. **Advanced Password Features:** Generate strong, customizable passwords based on user preferences. Calculate password strength in real-time to ensure robust security.
 
-- Organize your passwords into different types for convenient categorization.
+3. **User-Friendly and Internationalized:** Enjoy a modern, intuitive interface with pre-designed forms for various password types. Enable internationalization with i18next to provide localized language options.
 
-- Utilize pre-designed forms tailored for various password types, ensuring easy and consistent data entry.
-
-- Calculate password strength in real-time, assisting you in creating robust and secure passwords.
-
-- Generate strong and unique passwords based on user preferences and choices. Customize password criteria such as length, character types, and complexity.
-
-- Enable internationalization with the integration of i18next. Reach a wider audience by providing localized language options, enhancing user experience.
-
-- Built with Tauri and Next.js, Passwords combines the power of modern web development and desktop application creation. Leverage the advanced capabilities of Tauri for seamless cross-platform deployment.
-
-- Store your passwords in an encrypted local file, ensuring the safety of your sensitive information. Utilize encryption powered by CryptoJS to maintain the confidentiality of your stored data.
-
-- Enjoy a modern and user-friendly interface designed for efficiency and ease of use. Access various password types and features with a clean and organized layout.
+4. **Built with Modern Technologies:** Developed with Tauri and Next.js for powerful web and desktop integration. Store passwords in an encrypted local file using CryptoJS for enhanced security.
 
 ## Used Technologies
 
