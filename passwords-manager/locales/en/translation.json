@@ -1,0 +1,165 @@
+{
+  "authentication": {
+    "form": {
+      "heading": "Secure Access to Your Passwords",
+      "subheading": "Safeguarding your passwords has never been easier. Just enter your email and master password to access your encrypted vault. Your existing encrypted file will be unlocked, or a new one will be created if it doesn't exist.",
+      "email_label": "Email",
+      "email_placeholder": "Enter your email",
+      "password_label": "Password",
+      "password_placeholder": "Enter your password",
+      "continue_button": "Continue",
+      "error_title": "Oops! Something went wrong.",
+      "error_description": "An error occurred while attempting to access your password vault or create a new encrypted file."
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "passwords": "Passwords",
+      "passwords_children": {
+        "passwords": "Passwords"
+      },
+      "categories": "Categories",
+      "categories_children": {
+        "webLogins": "Web Logins",
+        "creditCards": "Credit Cards",
+        "identificationDocuments": "Identity Documents",
+        "notes": "Notes",
+        "socialMediaAccounts": "Social Media Accounts",
+        "emailAccounts": "Email Accounts",
+        "wiFiPasswords": "WiFi Passwords",
+        "bankAccounts": "Bank Accounts"
+      }
+    },
+    "header": {
+      "password_types": {
+        "passwords": "All Passwords",
+        "webLogin": "Web Logins",
+        "creditCard": "Credit Cards",
+        "identificationDocument": "Identity Documents",
+        "note": "Notes",
+        "socialMediaAccount": "Social Media Accounts",
+        "emailAccount": "Email Accounts",
+        "wiFiPassword": "WiFi Passwords",
+        "bankAccount": "Bank Accounts"
+      },
+      "description": "Safely manage and access your passwords."
+    },
+    "search_bar": {
+      "search_placeholder": "Search"
+    },
+    "passwords": {
+      "edit_button": "Edit"
+    },
+    "password_dialog": {
+      "add_new_password_button": "Add New Password",
+      "dialog_title_edit": "Edit Password",
+      "dialog_title_add": "Add New Password",
+      "dialog_description_edit": "Enter the necessary information to edit this password and save.",
+      "dialog_description_add": "Enter the necessary information to create a new password and save.",
+      "dialog_cancel_button": "Cancel",
+      "dialog_back_button": "Back",
+      "dialog_save_button": "Save",
+      "dialog_next_button": "Next"
+    },
+    "password_form": {
+      "password_type_label": "Password Type",
+      "password_type_placeholder": "Select password type",
+      "password_title_label": "Title",
+      "password_title_placeholder": "Enter title",
+      "password_types": {
+        "webLogin": "Web Login",
+        "creditCard": "Credit Card",
+        "identificationDocument": "Identity Document",
+        "note": "Note",
+        "socialMediaAccount": "Social Media Account",
+        "emailAccount": "Email Account",
+        "wiFiPassword": "WiFi Password",
+        "bankAccount": "Bank Account"
+      }
+    },
+    "bank_account_form": {
+      "iban_label": "IBAN",
+      "iban_placeholder": "GB",
+      "full_name_label": "Full Name",
+      "full_name_placeholder": "Enter full name"
+    },
+    "credit_card_form": {
+      "credit_card_number_label": "Card Number",
+      "credit_card_number_placeholder": "•••• •••• •••• ••••",
+      "card_holder_name_label": "Name on Card",
+      "card_holder_name_placeholder": "Enter the name on the card",
+      "expiration_date_label": "Expiration Date",
+      "expiration_date_placeholder": "MM / YY ",
+      "security_code_label": "Security Code",
+      "security_code_placeholder": "CVC / CVV"
+    },
+    "email_account_form": {
+      "email_label": "Email",
+      "email_placeholder": "Enter your email",
+      "password_label": "Password",
+      "password_placeholder": "Enter your password"
+    },
+    "identification_document_form": {
+      "identity_number_label": "ID Number",
+      "identity_number_placeholder": "Enter your ID number",
+      "full_name_label": "Full Name",
+      "full_name_placeholder": "Enter your full name",
+      "birth_date_label": "Birth Date",
+      "birth_date_placeholder": "DD / MM / YYYY",
+      "series_number_label": "Serial Number",
+      "series_number_placeholder": "Enter the serial number"
+    },
+    "note_form": {
+      "note_label": "Note",
+      "note_placeholder": "Enter your note"
+    },
+    "social_media_account_form": {
+      "username_label": "Username",
+      "username_placeholder": "Enter your username",
+      "password_label": "Password",
+      "password_placeholder": "Enter your password"
+    },
+    "web_login_form": {
+      "email_label": "Email",
+      "email_placeholder": "Enter your email",
+      "password_label": "Password",
+      "password_placeholder": "Enter your password",
+      "url_label": "URL",
+      "url_placeholder": "Enter the URL"
+    },
+    "wifi_password_form": {
+      "wifi_name_label": "WiFi Name",
+      "wifi_name_placeholder": "Enter the WiFi name",
+      "wifi_password_label": "WiFi Password",
+      "wifi_password_placeholder": "Enter the WiFi password"
+    },
+    "delete_password_dialog": {
+      "delete_button": "Delete",
+      "dialog_title_delete": "Delete Password",
+      "dialog_description_delete": "Are you sure you want to delete this password permanently?",
+      "dialog_cancel_button": "Cancel",
+      "dialog_delete_button": "Delete"
+    },
+    "password_generator": {
+      "error_title": "Oops! Something went wrong.",
+      "error_description": "You need to select at least one criterion to generate an automatic password.",
+      "button": "Generate Automatically",
+      "length": "Length",
+      "lowercase": "Lowercase Letters",
+      "uppercase": "Uppercase Letters",
+      "digit": "Digits",
+      "special_character": "Special Characters"
+    },
+    "password_strength": {
+      "is_length_sufficient": "It's recommended to have passwords with a minimum length of 8 characters.",
+      "has_lowercase": "Using lowercase letters in passwords is recommended.",
+      "has_uppercase": "Using uppercase letters in passwords is recommended.",
+      "has_digit": "Including digits in passwords is recommended.",
+      "has_special_character": "Using special characters in passwords is recommended."
+    },
+    "empty_state": {
+      "title": "No passwords found",
+      "description": "No passwords in your vault or your search didn't match."
+    }
+  }
+}
