@@ -1,6 +1,8 @@
-# Passwords
+# Passwords (Tenporary name)
 
 Passwords is an open-source desktop application designed to streamline password management. It provides a secure and intuitive user experience, leveraging Tauri and Next.js technologies.
+
+
 <img src="screenshots/Dashboard.png" alt="Dashboard" width="100%">
 
 ## Table of Contents
@@ -95,18 +97,7 @@ Contributions to Passwords are welcomed and encouraged! If you're interested in 
 
 ## License
 
-Passwords is open-source software released under the MIT License.
+Passwords(Temporary Name) is open-source software released under the MIT License.
 
 The MIT License (MIT) is a permissive open-source license that allows you to use, modify, and distribute the software in your projects, both commercial and non-commercial, while providing attribution to the original authors.
 
-## Screenshots
-
-<img src="screenshots/Authentication.png" alt="Authentication" width="100%">
-
-<img src="screenshots/Dashboard.png" alt="Dashboard" width="100%">
-
-<img src="screenshots/PasswordDialog.png" alt="PasswordDialog" width="100%">
-
-<img src="screenshots/PasswordGenerator.png" alt="PasswordGenerator" width="100%">
-
-<img src="screenshots/DeletePasswordDialog.png" alt="DeletePasswordDialog" width="100%">
