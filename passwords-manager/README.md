@@ -1,7 +1,6 @@
 # Passwords
 
-Passwords is an open-source desktop app that simplifies password management, offering a secure and user-friendly experience. Built with Tauri and Next.js.
-
+Passwords is an open-source desktop application designed to streamline password management. It provides a secure and intuitive user experience, leveraging Tauri and Next.js technologies.
 <img src="screenshots/Dashboard.png" alt="Dashboard" width="100%">
 
 ## Table of Contents
