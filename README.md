@@ -60,7 +60,7 @@ To get a copy of Passwords up and running on your local machine, follow these st
 2. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Prashidha0O1/passwords.git
+   git clone https://github.com/Prashidha0O1/PasswordsManager.git
    ```
 
    ```bash
