@@ -1,4 +1,4 @@
-# Passwords (Temporary name WIP)
+# Passwords
 
 Passwords is an open-source desktop application designed to streamline password management. It provides a secure and intuitive user experience, leveraging Tauri and Next.js technologies.
 
